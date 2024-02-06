@@ -1,0 +1,4 @@
+{
+    "image": "12skiller12/nto:latest",
+    "entry_point": "python run.py"
+}
